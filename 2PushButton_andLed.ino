@@ -1,5 +1,5 @@
 #define LED_PIN 8
-#define BUTTON_PIN 3
+#define BUTTON_PIN 7
 
 bool ledState = LOW;  // Keadaan awal LED mati
 bool lastButtonState = HIGH;  // Keadaan awal tombol tidak ditekan
