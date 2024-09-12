@@ -1,4 +1,4 @@
-#define LED_PIN 4
+#define LED_PIN 8
 #define BUTTON_PIN 3
 
 bool ledState = LOW;  // Keadaan awal LED mati
