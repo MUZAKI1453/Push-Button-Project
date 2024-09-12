@@ -1,5 +1,5 @@
 #define LED_PIN 8
-#define BUTTON_PIN 3
+#define BUTTON_PIN 7
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);  
